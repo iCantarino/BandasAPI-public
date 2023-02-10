@@ -1,2 +1,1 @@
-# BandasAPI-public
-Requisitado na aula do dia 10 de fevereiro pelo professor Bruno
+# só um sitezinho que visa atráves principalmente de js mostrar informações e músicas de determinada banda de maneira "dinâmica"
